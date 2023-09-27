@@ -8,5 +8,12 @@ namespace ExamenPromedio1
 {
     class Animal
     {
+        protected string Nombre;
+        protected int TiempoVida;
+        protected float CantidadProductos;
+        protected int PrecioAnimal;
+        protected int PrecioProductoFinal;
+
+
     }
 }
