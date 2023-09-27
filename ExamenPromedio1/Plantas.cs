@@ -8,5 +8,13 @@ namespace ExamenPromedio1
 {
     class Plantas
     {
+        protected string Nombre;
+        protected int TiempoVida;
+        protected int CantidadProducto;
+        protected float SemillaValor;
+        protected float ProductoValor;
+
+
+
     }
 }
